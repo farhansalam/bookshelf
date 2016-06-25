@@ -2,7 +2,7 @@
 if [ -z "$1" ]
   then
     echo "No argument supplied"
-    echo "Usage: \nbookshelf [bookname]"
+    printf "Usage: \nbookshelf [bookname]\n"
     exit 1
 fi
 ruby ./lib/main.rb "$1"
