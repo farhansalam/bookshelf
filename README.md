@@ -1,5 +1,6 @@
 #Bookshelf
 A command line ruby app, to query books by title.
+![](docs/bookshelf.gif)
 
 ###Setup
 - `cd` into the project directory
