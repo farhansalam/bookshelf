@@ -4,7 +4,7 @@ A command line ruby app, to query books by title.
 
 ###Setup
 - `cd` into the project directory
-- And run `sh setup` 
+- And run `source setup` 
 
 ###Usage
 Syntax:
