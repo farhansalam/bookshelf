@@ -3,6 +3,7 @@ A command line ruby app, to query books by title.
 ![](docs/bookshelf.gif)
 
 ###Setup
+- `clone` bookshelf repo
 - `cd` into the project directory
 - And run `source setup` 
 
